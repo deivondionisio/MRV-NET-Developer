@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "dH4iwun2zxO4N77AapwohlAMQ1BOqMiSvOB3cnzj19LmlXxRy+cUu7B1xF6XyYTvsxv5ct6EHhlLZ0NbwKZj0A==",
+  "success": true,
+  "projectFilePath": "/home/david/Documentos/csharp-examples/02-Instrucoes/Instrucoes.csproj",
+  "expectedPackageFiles": [
+    "/home/david/.nuget/packages/microsoft.netcore.app.ref/3.0.0/microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "/home/david/.nuget/packages/microsoft.aspnetcore.app.ref/3.0.1/microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "/home/david/.nuget/packages/microsoft.netcore.app.host.linux-x64/3.0.3/microsoft.netcore.app.host.linux-x64.3.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

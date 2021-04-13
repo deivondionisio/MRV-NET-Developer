@@ -1,0 +1,4 @@
+/home/david/Documentos/csharp-examples/02-Instrucoes/obj/Debug/netcoreapp3.0/Instrucoes.csprojAssemblyReference.cache
+/home/david/Documentos/csharp-examples/02-Instrucoes/obj/Debug/netcoreapp3.0/Instrucoes.AssemblyInfoInputs.cache
+/home/david/Documentos/csharp-examples/02-Instrucoes/obj/Debug/netcoreapp3.0/Instrucoes.AssemblyInfo.cs
+/home/david/Documentos/csharp-examples/02-Instrucoes/obj/Debug/netcoreapp3.0/Instrucoes.csproj.CoreCompileInputs.cache
