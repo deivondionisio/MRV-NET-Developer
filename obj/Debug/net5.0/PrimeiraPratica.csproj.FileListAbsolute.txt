@@ -1,0 +1,16 @@
+/home/david/PrimeiraPratica/bin/Debug/net5.0/PrimeiraPratica
+/home/david/PrimeiraPratica/bin/Debug/net5.0/PrimeiraPratica.deps.json
+/home/david/PrimeiraPratica/bin/Debug/net5.0/PrimeiraPratica.runtimeconfig.json
+/home/david/PrimeiraPratica/bin/Debug/net5.0/PrimeiraPratica.runtimeconfig.dev.json
+/home/david/PrimeiraPratica/bin/Debug/net5.0/PrimeiraPratica.dll
+/home/david/PrimeiraPratica/bin/Debug/net5.0/ref/PrimeiraPratica.dll
+/home/david/PrimeiraPratica/bin/Debug/net5.0/PrimeiraPratica.pdb
+/home/david/PrimeiraPratica/obj/Debug/net5.0/PrimeiraPratica.csprojAssemblyReference.cache
+/home/david/PrimeiraPratica/obj/Debug/net5.0/PrimeiraPratica.GeneratedMSBuildEditorConfig.editorconfig
+/home/david/PrimeiraPratica/obj/Debug/net5.0/PrimeiraPratica.AssemblyInfoInputs.cache
+/home/david/PrimeiraPratica/obj/Debug/net5.0/PrimeiraPratica.AssemblyInfo.cs
+/home/david/PrimeiraPratica/obj/Debug/net5.0/PrimeiraPratica.csproj.CoreCompileInputs.cache
+/home/david/PrimeiraPratica/obj/Debug/net5.0/PrimeiraPratica.dll
+/home/david/PrimeiraPratica/obj/Debug/net5.0/ref/PrimeiraPratica.dll
+/home/david/PrimeiraPratica/obj/Debug/net5.0/PrimeiraPratica.pdb
+/home/david/PrimeiraPratica/obj/Debug/net5.0/PrimeiraPratica.genruntimeconfig.cache
